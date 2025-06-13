@@ -1,7 +1,7 @@
 # 🚀 Local PCA
 
-Scripts to run local PCA using \[lostruct\]
-(<https://doi.org/10.1534/genetics.118.301747>) library
+Scripts to run local PCA using
+[lostruct](https://doi.org/10.1534/genetics.118.301747) library
 
 genotype call files (bcf) are separated by chromosome (for example:
 chromosome_1.bcf, chromosome_2.bcf, chromosome_3.bcf . . .)
